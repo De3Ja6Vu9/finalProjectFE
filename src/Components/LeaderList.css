@@ -1,0 +1,16 @@
+.leader-section {
+    padding: 0 30pc;
+
+    .leader-list {
+        display: flex;
+        gap: 20px;
+        flex-wrap:wrap;
+        box-shadow:0 0 10px rgba(0, 0, 0, .2);
+        align-items:left;
+        font-family: "Lilita one", sans-serif;
+        font-weight: 750;
+        font-style:italic;
+        
+    
+    }
+}
